@@ -1,0 +1,8 @@
+*__pycache__
+
+/DB/db_demo
+/DB/main_db
+
+data.csv
+db_data_demo.csv
+db_data.csv
